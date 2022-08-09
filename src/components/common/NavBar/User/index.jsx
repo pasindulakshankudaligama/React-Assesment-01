@@ -33,7 +33,7 @@ class NavBar extends Component {
                         variant={"h5"}
                         className="text-white font-bold tracking-wide select-none"
                     >
-                        Fake Store
+                     Product Store
                     </Typography>
                 </div>
                 <Tabs indicatorColor={'secondary'} value={this.state.value} onChange={this.handleChange}

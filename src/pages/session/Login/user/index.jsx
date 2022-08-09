@@ -51,6 +51,7 @@ class LoginUser extends Component {
                 alignItems="center"
                 justifyContent={"center"}
                 // className="h-screen w-screen bg-red-200"
+                className='pt-28'
             >
                 <Grid container direction={"column"} alignItems="center">
                     <Grid
